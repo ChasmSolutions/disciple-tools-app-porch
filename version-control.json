@@ -1,0 +1,30 @@
+{
+  "name": "Disciple.Tools - App Porch",
+  "version": "0.1",
+  "last_updated": "2022-01",
+  "author": "Disciple.Tools",
+  "author_homepage": "https://zume.training",
+  "git_owner": "DiscipleTools",
+  "git_repo": "disciple-tools-app-porch",
+  "download_url": "https://github.com/DiscipleTools/disciple-tools-app-porch/releases/latest/download/disciple-tools-app-porch.zip",
+  "homepage": "https://github.com/DiscipleTools/disciple-tools-app-porch",
+  "issues_url": "https://github.com/DiscipleTools/disciple-tools-app-porch/issues",
+  "projects_url": "https://github.com/DiscipleTools/disciple-tools-app-porch/projects/1",
+  "discussions_url": "https://github.com/DiscipleTools/disciple-tools-app-porch/discussions",
+  "wiki_url": "https://github.com/DiscipleTools/disciple-tools-app-porch/wiki",
+  "license_url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-app-porch/master/LICENSE",
+  "readme_url": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-app-porch/master/README.md",
+  "requires": "4.7",
+  "tested": "5.7",
+  "upgrade_notice": "Upgrade to get the latest features.",
+  "banners": {
+    "low": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-app-porch/master/documentation/banner.png",
+    "high": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-app-porch/master/documentation/banner.png"
+  },
+  "icon": "https://raw.githubusercontent.com/DiscipleTools/disciple-tools-app-porch/master/documentation/icon.png",
+  "sections": {
+    "description": "This plugin adds an app porch screen to Disciple.Tools that allows you to hook other plugins into the app porch",
+    "installation": "(Required) You must have Disciple.Tools Theme installed before using this plugin. Once Disciple.Tools is installed, you can use the normal Plugin system to install the plugin.",
+    "changelog": ""
+  }
+}
