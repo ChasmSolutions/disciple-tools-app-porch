@@ -1,0 +1,54 @@
+.churches {
+    position: relative;
+}
+
+.churches__add {
+    --dt-button-font-size: 1.7rem;
+    position: absolute;
+    top: var(--dt-tile-padding, 1.2rem);
+    right: var(--dt-tile-padding, 1rem);
+}
+
+[dir='rtl'] .churches__add {
+    left: var(--dt-tile-padding, -1rem);
+    right: auto;
+}
+
+.church {
+    position: relative;
+}
+
+.church__link {
+    --dt-button-font-size: 1.7rem;
+    position: absolute;
+    transform: translateY(var(--dt-tile-padding, -3rem));
+    right: var(--dt-tile-padding, 1rem);
+}
+[dir='rtl'] .church__link {
+    left: var(--dt-tile-padding, 1rem);
+    right: auto;
+}
+
+.church__counts {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin: 1rem 0;
+}
+
+.church__count {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.count__value {
+    transform: translate( calc(50% - .75rem), calc( 100% + 1.2rem) );
+    background-color: var(--alert-color);
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    display: block;
+    width: 1.5rem;
+    color: white;
+}

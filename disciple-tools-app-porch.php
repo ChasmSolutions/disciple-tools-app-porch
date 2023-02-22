@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Disciple Tools - App Porch
  * Plugin URI: https://github.com/DiscipleTools/disciple-tools-app-porch
- * Description: Disciple.Tools - Disciple Tools -  App Porch is intended to help developers and integrator jumpstart their extension of the Disciple.Tools system.
+ * Description: Disciple.Tools -   App Porch is intended to help developers and integrator jumpstart their extension of the Disciple.Tools system.
  * Text Domain: disciple-tools-app-porch
  * Domain Path: /languages
  * Version:  0.1
